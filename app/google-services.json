@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "388561439855",
+    "firebase_url": "https://redapp-4000d.firebaseio.com",
+    "project_id": "redapp-4000d",
+    "storage_bucket": "redapp-4000d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388561439855:android:7cc5bc4c65def0b0",
+        "android_client_info": {
+          "package_name": "com.magasid.redapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmT_FvMOWez1-WWneiORIbSdJnODzI6r0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388561439855-lhncanel9211e81avld0j07o6f0193ml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
